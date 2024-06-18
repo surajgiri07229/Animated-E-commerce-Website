@@ -1,0 +1,41 @@
+body {
+  background-color: #1D5D9B; //body class does not require (.)
+}
+
+.shop {
+  max-width: 100%;
+}
+
+.shop__image {
+  width: 600px;
+  height: 400px;
+  margin-bottom: 30px;
+}
+.section1 {
+  display: flex;
+  padding: 15px;
+}
+
+.shop__description {
+  color: #FFFFFF;
+  font-size: 50px;
+  font-weight: bold;
+  padding: 45px;
+  padding-left: 110px;
+
+}
+
+.section3 {
+  padding: 12px;
+  display:flex;
+}
+
+.tranimg {
+  width: 600px;
+  height: 400px;
+  margin-top: 40px;
+}
+
+.shop__description {
+  margin-top: 50px;
+}
